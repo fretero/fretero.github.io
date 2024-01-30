@@ -10,6 +10,9 @@ body {
     width: 257px;
     margin-right: 20px;
 }
+#header {
+    text-align:center;
+}
 #introduction {
     display: block;
     height:458px;
