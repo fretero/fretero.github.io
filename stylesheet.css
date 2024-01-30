@@ -1,2 +1,19 @@
-Body{
-Background-color: #9c9f84;}
+body {
+    background: #9c9f84;
+    width: 100%;
+}
+.picture {
+    float:left;
+    display: block;
+    position: center;
+    height: 458px;
+    width: 257px;
+    margin-right: 20px;
+}
+#introduction {
+    display: block;
+    height:458px;
+}
+#footer {
+    display:block;
+}
